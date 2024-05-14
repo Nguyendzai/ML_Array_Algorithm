@@ -1,4 +1,4 @@
-# ML_Array_Algorithm<Smart-Sensor LAB>
+# ML_Array_Algorithm.Smart-Sensor LAB
 
 ### error 13/5
 inputs và labels sai value 
