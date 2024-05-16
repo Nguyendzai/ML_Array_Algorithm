@@ -12,3 +12,5 @@ Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
 ### Công việc còn lại
 1,Xây dựng dữ liệu test và kiểm tra.                                                                                                                                                                              
 2,Thử nghiệm, kết hợp thêm các mô hình khác.
+### 16/5 . Complete
+Nhưng độ chính xác rất thấp ~ 25%
